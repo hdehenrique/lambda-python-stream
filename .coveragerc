@@ -1,0 +1,18 @@
+[report]
+omit =
+    *__init__.py
+    __pycache__
+    */logger.py
+    */log_manager.py
+    */constants.py
+
+[run]
+relative_files = True
+omit =
+    */logger.py
+    */log_manager.py
+
+source = src
+
+[xml]
+output = ../reports/coverage/lcov-report/coverage.xml
