@@ -1,4 +1,4 @@
-# Lambda Python - Processamento de Mensagens Kafka
+# AWS Lambda Python - Processamento de Mensagens Kafka
 
 Este projeto implementa uma **AWS Lambda** em Python para leitura de mensagens de um tópico Kafka, processamento das mensagens recebidas e envio para outro tópico Kafka. A solução foi projetada para ser escalável, eficiente e fácil de integrar com sistemas baseados em eventos.
 
